@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2017",
+    "watch": true,
+    "noImplicitAny": false
+  }
+}
+
